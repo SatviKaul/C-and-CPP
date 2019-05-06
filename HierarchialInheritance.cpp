@@ -35,7 +35,7 @@ public:
     	getPersonDetails();
         cout << "Enter the Basic pay:";
         cin>>bp;
-        cout << "Enter the Humen Resource Allowance:";
+        cout << "Enter the Human Resource Allowance:";
         cin>>hra;
         cout << "Enter the Dearness Allowance :";
         cin>>da;
@@ -51,7 +51,7 @@ public:
     void employee_display() {
     	person_display();
     	cout <<"\nEmployee Basic pay:"<<bp;
-		cout <<"\nEmployee Humen Resource Allowance:"<<hra;
+		cout <<"\nEmployee Human Resource Allowance:"<<hra;
 		cout <<"\nEmployee Dearness Allowance:"<<da;
 		cout <<"\nEmployee Profitablity Fund:"<<pf;
 		cout <<"\nEmployee Net Pay:"<<np;
