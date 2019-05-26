@@ -1,2 +1,2 @@
 # CPP
-Data structures and OOP using C++
+Data structures using C++
